@@ -1,2 +1,0 @@
-# Covid-Server
-Backend repository
